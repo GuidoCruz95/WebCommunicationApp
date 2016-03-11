@@ -15,7 +15,6 @@
         vm.password;
 
         vm.saveUser = function () {
-            
             var user = {
                 name: vm.name,
                 lastname: vm.lastname,
